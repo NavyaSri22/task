@@ -1,0 +1,54 @@
+{
+    "info" : {
+        "Name"  : "K.Durga Navya Sri",
+        "Email" : "abc@gmail.com",
+        "Phone_Number" : "+919999999999",
+        "image" : "profile.png"
+    }, 
+    "Hobbies" : [
+        "Playing chess",
+        "Listening music",
+        "Gardening"
+    ],
+    "Languages_Known" : [
+        "English",
+        "Telugu"
+        
+    ],
+    "Career_Objective" : {
+        "para" : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    "Education_Details" : [{
+        "SNO" : "S.NO",
+        "Name_of_the_Institution" : "Name of the Institution",
+        "Branch" : "Branch",
+        "Year_of_passing" : "Year"
+        
+    },
+    {
+        "SNO" : "1",
+        "Name_of_the_Institution" : "Sasi",
+        "Branch" : "SSC",
+        "Year_of_passing" : "2015"
+        
+       
+    },
+    {
+        "SNO" : "2",
+        "Name_of_the_Institution" : "Sasi",
+        "Branch" : "MPC",
+        "Year_of_passing" : "2017"
+    },
+    {
+        "SNO" : "3",
+        "Name_of_the_Institution" : "Sasi",
+        "Branch" : "CSE",
+        "Year_of_passing" : "2021"
+    }],
+    "Career_Development" : {
+        "para" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse, reprehenderit hic ipsum itaque totam nihil magnam, vitae sit asperiores placeat iure aspernatur tenetur. Officia non ipsum voluptatem natus eveniet obcaecati mollitia sed quibusdam, molestiae cum et, dignissimos tempora nobis recusandae ut, provident repellat molestias exercitationem aliquam. Dolore facere numquam illum voluptatibus ut dolorum, repellat distinctio libero suscipit excepturi harum iste."
+    },
+    "Awards_and_Achievements" : {
+        "para" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos maiores, sapiente distinctio labore consequuntur voluptatum non, sint libero eligendi culpa incidunt molestiae totam. Deleniti ipsum, aperiam vero ratione error laboriosam quod exercitationem iusto minus eum nesciunt! Odio ipsum, dignissimos dolore vel quasi voluptas error pariatur perferendis! Dolorem animi officiis voluptate rem quisquam, voluptatibus amet quas quidem ab eius? Ducimus, incidunt."
+    }
+}
